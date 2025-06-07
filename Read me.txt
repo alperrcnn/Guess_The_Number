@@ -1,0 +1,1 @@
+A simple number guessing game. You can assign a number in the program. After you run it, you'll have 3 chances to guess the number. You can easily modify the secret number you want the user to guess, as well as the number of guess attempts.

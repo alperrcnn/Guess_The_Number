@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1749240924 source:c:\users\alper\desktop\game_first\main.c
+	<stdio.h>
+	<stdlib.h>
+
